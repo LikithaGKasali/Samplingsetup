@@ -135,6 +135,6 @@ class TestSetup(BaseClass):
         logg.info(message)
         Alert.accept()
         logg.info("sampling setup is completed")
-        # assert ("hello" in message)
+        # #assert ("hello" in message)
 
 
